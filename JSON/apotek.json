@@ -1,3 +1,4 @@
+
 {
 	"obat" : [
 	{
@@ -128,7 +129,7 @@
 	},
 	{
 		"kategori" : "keras",
-		"nama" : Antasida Doen syr KF",
+		"nama" :" Antasida Doen syr KF",
 		"bentuk" : "botol",
 		"harga" : "10790"
 	},
