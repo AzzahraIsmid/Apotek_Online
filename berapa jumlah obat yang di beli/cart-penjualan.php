@@ -26,7 +26,7 @@
                 <td>Rp. ".number_format($data->harga).",-</td>   
                 <td align='center'>$data->qty</td>   
                 <td align='center' style='color : red'>$data->diskon%</td>   
-                <td>Rp. ".number_format($data->subtotal).",-</td>   
+                <td>Rp. ".number_format($data->subtotal).",-</td>  
                 <td><a href='action/action?act=del-cart-penjualan&&data=$data->kode_obat' class='fa fa-trash'></a></td>   
               </tr>";
             }else{
