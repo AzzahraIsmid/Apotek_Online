@@ -1,0 +1,155 @@
+
+{
+	"obat" : [
+	{
+		"kategori" : "Keras",
+		"nama" : "Etoricoxib 90 mg",
+		"bentuk" : "Tablet",
+		"harga" : "5500"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Hansaplast princess isi 10",
+		"bentuk" : "pcs",
+		"harga" : "6710"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Hansaplast Roll kain 1,25x5M",
+		"bentuk" : "pcs",
+		"harga" : "7480"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Hansaplast spray antiseptik 50",
+		"bentuk" : "pcs",
+		"harga" : "33333"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Hansaplast transparant 10 lbr",
+		"bentuk" : "tablet",
+		"harga" : "8000"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Nivea Deo Invisible 50",
+		"bentuk" : "pcs",
+		"harga" : "18000"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Nivea Roll On ext white ac 50",
+		"bentuk" : "pcs",
+		"harga" : "20000"
+	},
+	{
+		"kategori" : "Bebas",
+		"nama" : "Nivea Deo wht h.shave ro 50 ml",
+		"bentuk" : "pcs",
+		"harga" : "20000"
+	},
+	{
+		"kategori" : "Keras",
+		"nama" : "Ibuprofen 400mg",
+		"bentuk" : "tablet",
+		"harga" : "27500"
+	},
+	{
+		"kategori" : "Keras",
+		"nama" : Amlodipine 10mg",
+		"bentuk" : "tablet",
+		"harga" : "750"
+	},
+	{
+		"kategori" : "Kosmetik",
+		"nama" : "Theraskin Serum Vit C plus",
+		"bentuk" : "botol",
+		"harga" : "42350"
+	},
+	{
+		"kategori" : "kosmetik",
+		"nama" : "Theraskin deo lotion 20 ml",
+		"bentuk" : "botol",
+		"harga" : "13200"
+	},
+	{
+		"kategori" : "Kosmetik",
+		"nama" : "Theraskin AHA 10 Cream 10gr",
+		"bentuk" : "Pot",
+		"harga" : "17160"
+	},
+	{
+		"kategori" : "Herbal",
+		"nama" : "Kutus-kutus",
+		"bentuk" : "botol",
+		"harga" : "145000"
+	},
+	{
+		"kategori" : "Keras",
+		"nama" : "Tremenza Syrup",
+		"bentuk" : "botol",
+		"harga" : "21450"
+	},
+	{
+		"kategori" : "Keras",
+		"nama" : "Valproic Acid Syrup",
+		"bentuk" : "botol",
+		"harga" : "48510"
+	},
+	{
+		"kategori" : "keras",
+		"nama" : "Vectrine Syrup",
+		"bentuk" : "botol",
+		"harga" : "44000"
+	},
+	{
+		"kategori" : "Bebas Teratas",
+		"nama" : "Ethyl Chloride spray 100ml",
+		"bentuk" : "botol",
+		"harga" : "250000"
+	},
+	{
+		"kategori" : "Keras",
+		"nama" : "vesperum syrup",
+		"bentuk" : "botol",
+		"harga" : "5000"
+	},
+	{
+		"kategori" : "keras",
+		"nama" : "Vestein syrup",
+		"bentuk" : "botol",
+		"harga" : "39010"
+	},
+	{
+		"kategori" : "keras",
+		"nama" : "Vesperum drops",
+		"bentuk" : "botol",
+		"harga" : "11000"
+	},
+	{
+		"kategori" : "keras",
+		"nama" :" Antasida Doen syr KF",
+		"bentuk" : "botol",
+		"harga" : "10790"
+	},
+	{
+		"kategori" : "keras",
+		"nama" : "Antasida Doen Syr Lucas",
+		"bentuk" : "botol",
+		"harga" : "2808"
+	},
+	{
+		"kategori" : "Keras",
+		"nama" : "Amoxcilin Syrup",
+		"bentuk" : "botol",
+		"harga" : "7470"
+	},
+	{
+		"kategori" : "keras",
+		"nama" : "Ambroxol Syrup",
+		"bentuk" : "botol",
+		"harga" : "4150"
+}
+]
+}
