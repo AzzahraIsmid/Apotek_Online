@@ -1,5 +1,4 @@
 # Apotek_Online
-Membuat apotik online sederhana dimana dapat menambah data, membantu melakukan transaksi.
-Membuat apotik online sederhana dimana dapat menambah data, membantu melakukan transaksi.
-Melakukan inputan pendataan obat dan menghapus pendataan pada obat.
+Membuat apotik online sederhana dimana admin dapat login dan dapat menambah dan menghapus data, membantu melakukan transaksi.
+dan memiliki sistem database 
 
