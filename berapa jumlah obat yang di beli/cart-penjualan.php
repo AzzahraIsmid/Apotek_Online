@@ -14,7 +14,6 @@
             $no=1; 
             $result = $connect->query("SELECT * FROM temp"); 
             $nums   = $result->num_rows;
-
           ?>
         <tbody>
           <?php while ($data = $result->fetch_object()) {
