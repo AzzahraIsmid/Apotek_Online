@@ -8,7 +8,6 @@ CONTENT='0; URL=pages/error/index.html'>";
 }
 $date = date('ymd');
 // echo "date : ". $date;
-
 ?>
 
   <div class="card shadow mb-4">
