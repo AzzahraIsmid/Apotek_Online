@@ -1,6 +1,9 @@
 <?php
 
-
+$servername = "localhost";
+$database 	= "db_apotek";
+$username 	= "root";
+$password 	= "";
 
 $servername = "sql210.epizy.com";
 
